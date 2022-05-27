@@ -14,7 +14,7 @@
 _This webpage contains information about me (and other weird stuff)_
 
 ### GitHub Pages
-https://cyndaz42.github.io/my-first-webpage/
+https://cyndaz42.github.io/portfolio/
 
 ## Setup/Installation Requirements
 
