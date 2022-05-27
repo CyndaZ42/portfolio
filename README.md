@@ -1,6 +1,6 @@
 # _Zac Waggoner's Portfolio_
 
-#### By _Zac Waggoner_
+#### By _Zachary Waggoner_
 
 #### _This is my portfolio_
 
