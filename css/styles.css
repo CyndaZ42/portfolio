@@ -44,9 +44,9 @@ h2{
 }
 
 .memes {
-  -ms-flex: 0 0 20%;
-  flex: 0 0 20%;
-  max-width: 20%;
+  -ms-flex: 0 0 93%;
+  flex: 0 0 93%;
+  max-width: 93%;
 }
 
 .file-photo, .jumbotron {
