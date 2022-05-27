@@ -22,6 +22,11 @@ h2{
   border-color: #c9d1d9;
 }
 
+@keyframes fadein {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
 .file-photo, .jumbotron, .info {
   background-color: #0d1117;
   border: solid;
@@ -53,6 +58,7 @@ h2{
 .jumbotron h2 {
   border-bottom: none;
   text-align: center;
+  animation: 2s fadein;
 }
 
 .jumbotron p {
@@ -97,6 +103,7 @@ margin-right: 10px;
 
 .row {
   padding-left: 3%;
+  animation: 2s fadein;
 }
 
 .memes {
