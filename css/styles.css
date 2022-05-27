@@ -22,46 +22,6 @@ h2{
   border-color: #c9d1d9;
 }
 
-.orange {
-  color: #ff4500;
-}
-
-.green {
-  color: #1ccc5b;
-}
-
-.blurple {
-  color: #5865f2;
-}
-
-.white {
-  color: #ffffff;
-}
-
-.info {
-  width: 250px;
-}
-
-.jumbotron {
-  margin: 12px;
-}
-
-.sidebar {
-width: 250px;
-float: right;
-margin-right: 10px;
-}
-
-.row {
-  padding-left: 3%;
-}
-
-.memes {
-  -ms-flex: 0 0 93%;
-  flex: 0 0 93%;
-  max-width: 93%;
-}
-
 .file-photo, .jumbotron, .info {
   background-color: #0d1117;
   border: solid;
@@ -93,4 +53,54 @@ margin-right: 10px;
 .jumbotron h2 {
   border-bottom: none;
   text-align: center;
+}
+
+.jumbotron p {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.info p {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.orange {
+  color: #ff4500;
+}
+
+.green {
+  color: #1ccc5b;
+}
+
+.blurple {
+  color: #5865f2;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.info {
+  width: 252px;
+}
+
+.jumbotron {
+  margin: 12px;
+}
+
+.sidebar {
+width: 250px;
+float: right;
+margin-right: 10px;
+}
+
+.row {
+  padding-left: 3%;
+}
+
+.memes {
+  -ms-flex: 0 0 93%;
+  flex: 0 0 93%;
+  max-width: 93%;
 }
